@@ -13,7 +13,7 @@
   <img href="https://www.linkedin.com/in/molivaresb/" src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white">
   <img href="https://twitter.com/Abysswlkr_" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   
-- ⚡  I like videogames, music, cinema, puzzle building, and reading (currently the Witcher saga)
+- ⚡  I like videogames, music, cinema, puzzle building, and reading 
 
 
 ### Tech & Tools that I am currently working with
