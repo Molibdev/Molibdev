@@ -5,16 +5,16 @@
   
 - 🌱 I am currently learning:
 
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"> <img src= "https://img.shields.io/badge/Godot-00ADD8?style=for-the-badge&logo=godot-engine&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"> <img src= "https://img.shields.io/badge/Godot-00ADD8?style=for-the-badge&logo=godot-engine&logoColor=white">
+    <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
 
 - 📫 Here are my contact profiles:
 
-  <img href="https://www.linkedin.com/in/molivaresb/" src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white">
-  <img href="https://twitter.com/Abysswlkr_" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  
-- ⚡  I like videogames, music, cinema, puzzle building, and reading 
+    [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Abysswlkr_)](https://twitter.com/Abysswlkr_)
+    [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/molivaresb/)](https://www.linkedin.com/in/molivaresb/)
 
+    
+- ⚡  I like 🎮videogames, 🎶music, 🎞cinema, 🧐puzzle building, and 📝reading 
 
 ### Tech & Tools that I am currently working with
 
