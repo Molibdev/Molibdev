@@ -1,4 +1,4 @@
-![olivaresmiguel_presentation](https://github.com/Abysswlkr/Abysswlkr/assets/101478322/b10ff99f-6794-4563-8a14-ac0d84628730)
+![olivaresmiguel_presentation(1)](https://github.com/Abysswlkr/Abysswlkr/assets/101478322/c4eaf304-795b-4ce0-8fd6-ab35bead5079)
 
 
 - 🔭  Improve learned technologies and carry out new projects
