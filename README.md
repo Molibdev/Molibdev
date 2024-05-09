@@ -36,7 +36,7 @@
 ### Other Languages I know
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 
-- 🌐 Visit my website :point_right: [Sourcerer]( molibdev.github.io)
+- 🌐 Visit my website :point_right: [Sourcerer]([molibdev.github.io](https://abysswlkr.github.io/molibdev.github.io/))
 
 <table width="100%"  border="0" cellpadding="0" cellspacing="0">
   <tr>
